@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://raw.githubusercontent.com/leesama/codaze-card/main/codaze-card-1.4.apk",
-  "sha256": "67e3a05f5c0d3dec5abf66c56f6fabb67d88e554cca51bafb780432664a68ac2",
-  "sizeBytes": 2177605,
-  "notes": "新增应用内自动更新：检测新版本、下载并安装。"
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://raw.githubusercontent.com/leesama/codaze-card/main/codaze-card-1.5.apk",
+  "sha256": "d1bbbd24831242f15a4025acfe4dbed50076a54fec1a26e0e829a926976884d9",
+  "sizeBytes": 2181757,
+  "notes": "新增迷你卡片：缩到一格时只显示账号名称和剩余百分比，点击即刷新。"
 }
