@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.5.3",
-  "apkUrl": "https://raw.githubusercontent.com/leesama/codaze-card/main/codaze-card-1.5.3.apk",
-  "sha256": "bf0fc4989f03de2e0f54127bf5d0b60a662b246c3b7473afc7da022d9b4376d1",
-  "sizeBytes": 2181813,
-  "notes": "Codaze 卡片 1.5.3"
+  "versionCode": 10,
+  "versionName": "1.5.4",
+  "apkUrl": "https://raw.githubusercontent.com/leesama/codaze-card/main/codaze-card-1.5.4.apk",
+  "sha256": "74983781ffafb2c86a6bde4ed1d20b890a257a1aaeae6344c26c921b9cf81dc0",
+  "sizeBytes": 2185909,
+  "notes": "Codaze 卡片 1.5.4"
 }
